@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:padding="12dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/bundle_pic"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/racun"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/bundle_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Nama Bundle"
+        android:fontFamily="monospace"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bundle_pic" />
+
+    <TextView
+        android:id="@+id/bundle_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Harga Bundle"
+        android:textColor="#3B754B"
+        android:textSize="18dp"
+        android:fontFamily="sans-serif-smallcaps"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.486"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bundle_name" />
+
+    <ImageView
+        android:id="@+id/like_bundle"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/ic_heartt"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/add_bundle"
+        app:layout_constraintTop_toBottomOf="@id/bundle_price" />
+
+    <ImageView
+        android:id="@+id/add_bundle"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/ic_plus"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bundle_price" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
