@@ -1,0 +1,74 @@
+{
+  "Artist": [
+    {
+      "Country": "Indonesia",
+      "Name": "Afgan",
+      "Genre":"pop",
+      "Id":"1"
+      "image_url":"Afgan.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Marcel",
+      "Genre":"pop",
+      "Id":"2",
+      "image_url":"Rossa"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "The Chainsmoker",
+      "Genre":"pop",
+      "Id":"3",
+      "image_url":"Afgan.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Rossa",
+      "Genre":"pop",
+      "Id":"4",
+      "image_url":"Rossa.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Raisa",
+      "Genre":"pop",
+      "Id":"5",
+      "image_url":"Raisa.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Judika",
+      "Genre":"pop",
+      "Id":"6",
+      "image_url":"Judika.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Pamungkas",
+      "Genre":"pop",
+      "Id":"7",
+      "image_url":"Pamungkas.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Ari Lasso",
+      "Genre":"pop",
+      "Id":"2",
+      "image_url":"AriLasso.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Coldplay",
+      "Genre":"pop",
+      "Id":"9",
+      "image_url":"Coldplay.jpg"
+    },
+    {
+      "Country": "Indonesia",
+      "Name": "Mac Ayres",
+      "Genre":"pop",
+      "Id":"10",
+      "image_url":"MAS.jpg"
+    }
+  ]
+}
