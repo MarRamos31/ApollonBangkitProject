@@ -1,0 +1,44 @@
+{
+  "Genre": [
+    {
+      "Genre_name": "Pop",
+      "Genre_tag": "#pop"
+    },
+    {
+      "Genre_name": "Rock",
+      "Genre_tag": "#rock"
+    },
+    {
+      "Genre_name": "Jazz",
+      "Genre_tag": "#jazz"
+    },
+    {
+      "Genre_name": "Electronic",
+      "Genre_tag": "#electronic"
+    },
+    {
+      "Genre_name": "RNB",
+      "Genre_tag": "#rib"
+    },
+    {
+      "Genre_name": "Indie",
+      "Genre_tag": "#indie"
+    },
+    {
+      "Genre_name": "Alterative",
+      "Genre_tag": "#Alternative"
+    },
+    {
+      "Genre_name": "Dance",
+      "Genre_tag": "#dance"
+    },
+    {
+      "Genre_name": "Funk",
+      "Genre_tag": "#funk"
+    },
+    {
+      "Genre_name": "HipHop",
+      "Genre_tag": "#HH"
+    }
+  ]
+}
