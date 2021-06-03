@@ -1,0 +1,55 @@
+{
+  "Album": [
+    {
+      "Artist_id": "0",
+      "Album_Name": "Dekade",
+      "Album_Released":"2018"
+     
+    },
+    {
+      "Artist_id": "1",
+      "Album_Name": "Marcell",
+      "Album_Released":"2003"
+    },
+    {
+      "Artist_id": "2",
+      "Album_Name": "Sick Boy",
+      "Album_Released":"2018"
+    },
+    {
+      "Artist_id": "3",
+      "Album_Name": "Kembali",
+      "Album_Released":"2004"
+    },
+    {
+      "Artist_id": "4",
+      "Album_Name": "Raisa",
+      "Album_Released":"2011"
+    },
+    {
+      "Artist_id": "5",
+      "Album_Name": "Judika",
+      "Album_Released":"2017"
+    },
+    {
+      "Artist_id": "6",
+      "Album_Name": "Walk the Talk",
+      "Album_Released":"2018"
+    },
+    {
+      "Artist_id": "7",
+      "Album_Name": "Keseimbangan",
+      "Album_Released":"2003"
+    },
+    {
+      "Artist_id": "8",
+      "Album_Name": "Parachutes",
+      "Album_Released":"2000"
+    },
+    {
+      "Artist_id": "9",
+      "Album_Name": "Drive Slow",
+      "Album_Released":"2018"
+    }
+  ]
+}
