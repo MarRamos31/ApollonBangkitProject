@@ -1,0 +1,64 @@
+{
+  "Songs": [
+    {
+      "Artist_id": "0",
+      "Name": "Panah Cinta",
+      "Genre":"pop",
+      "songs_id":"0"
+    },
+    {
+      "Artist_id": "1",
+      "Name": "Takkan Terganti",
+      "Genre":"pop",
+      "songs_id":"1"
+    },
+    {
+      "Artist_id": "2",
+      "Name": "Paris",
+      "Genre":"pop",
+      "songs_id":"2"
+    },
+    {
+      "Artist_id": "3",
+      "Name": "Hijrah Cinta",
+      "Genre":"pop",
+      "songs_id":"3"
+    },
+    {
+      "Artist_id": "4",
+      "Name": "You",
+      "Genre":"pop",
+      "songs_id":"4"
+    },
+    {
+      "Artist_id": "5",
+      "Name": "Putus/Terus",
+      "Genre":"pop",
+      "songs_id":"5"
+    },
+    {
+      "Artist_id": "6",
+      "Name": "To the bone",
+      "Genre":"pop",
+      "songs_id":"6"
+    },
+    {
+      "Artist_id": "7",
+      "Name": "Hampa",
+      "Genre":"pop",
+      "songs_id":"7"
+    },
+    {
+      "Artist_id": "8",
+      "Name": "Magic",
+      "Genre":"pop",
+      "songs_id":"8"
+    },
+    {
+      "Artist_id": "9",
+      "Name": "Easy",
+      "Genre":"pop",
+      "songs_id":"9"
+    }
+  ]
+}
